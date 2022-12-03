@@ -60,16 +60,16 @@
         "source": "E:\\BelajarCoding\\VIX-Schoters-Candra-Roseahansyah-main\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
+        "merged": "E:\\BelajarCoding\\VIX-Schoters-Candra-Roseahansyah-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_photo_about.png.flat",
+        "source": "E:\\BelajarCoding\\VIX-Schoters-Candra-Roseahansyah-main\\app\\src\\main\\res\\drawable\\photo_about.png"
+    },
+    {
         "merged": "E:\\BelajarCoding\\VIX-Schoters-Candra-Roseahansyah-main\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
         "source": "E:\\BelajarCoding\\VIX-Schoters-Candra-Roseahansyah-main\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
         "merged": "E:\\BelajarCoding\\VIX-Schoters-Candra-Roseahansyah-main\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
         "source": "E:\\BelajarCoding\\VIX-Schoters-Candra-Roseahansyah-main\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "E:\\BelajarCoding\\VIX-Schoters-Candra-Roseahansyah-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_photo_about.jpg.flat",
-        "source": "E:\\BelajarCoding\\VIX-Schoters-Candra-Roseahansyah-main\\app\\src\\main\\res\\drawable\\photo_about.jpg"
     },
     {
         "merged": "E:\\BelajarCoding\\VIX-Schoters-Candra-Roseahansyah-main\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
