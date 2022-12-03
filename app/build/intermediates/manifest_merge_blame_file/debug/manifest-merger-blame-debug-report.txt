@@ -1,0 +1,110 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.rakamin.newsapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->E:\BelajarCoding\VIX-Schoters-Candra-Roseahansyah-main\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->E:\BelajarCoding\VIX-Schoters-Candra-Roseahansyah-main\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->E:\BelajarCoding\VIX-Schoters-Candra-Roseahansyah-main\app\src\main\AndroidManifest.xml:5:5-67
+11-->E:\BelajarCoding\VIX-Schoters-Candra-Roseahansyah-main\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <permission
+13-->[androidx.core:core:1.9.0] C:\Users\amdha\.gradle\caches\transforms-3\2d8897e193293414bb89926ed5ed39a8\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+14        android:name="com.rakamin.newsapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+14-->[androidx.core:core:1.9.0] C:\Users\amdha\.gradle\caches\transforms-3\2d8897e193293414bb89926ed5ed39a8\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+15        android:protectionLevel="signature" />
+15-->[androidx.core:core:1.9.0] C:\Users\amdha\.gradle\caches\transforms-3\2d8897e193293414bb89926ed5ed39a8\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+16
+17    <uses-permission android:name="com.rakamin.newsapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+17-->[androidx.core:core:1.9.0] C:\Users\amdha\.gradle\caches\transforms-3\2d8897e193293414bb89926ed5ed39a8\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+17-->[androidx.core:core:1.9.0] C:\Users\amdha\.gradle\caches\transforms-3\2d8897e193293414bb89926ed5ed39a8\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+18
+19    <application
+19-->E:\BelajarCoding\VIX-Schoters-Candra-Roseahansyah-main\app\src\main\AndroidManifest.xml:7:5-30:19
+20        android:allowBackup="false"
+20-->E:\BelajarCoding\VIX-Schoters-Candra-Roseahansyah-main\app\src\main\AndroidManifest.xml:8:9-36
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.9.0] C:\Users\amdha\.gradle\caches\transforms-3\2d8897e193293414bb89926ed5ed39a8\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+22        android:debuggable="true"
+23        android:icon="@mipmap/ic_launcher"
+23-->E:\BelajarCoding\VIX-Schoters-Candra-Roseahansyah-main\app\src\main\AndroidManifest.xml:9:9-43
+24        android:label="@string/app_name"
+24-->E:\BelajarCoding\VIX-Schoters-Candra-Roseahansyah-main\app\src\main\AndroidManifest.xml:10:9-41
+25        android:roundIcon="@mipmap/ic_launcher_round"
+25-->E:\BelajarCoding\VIX-Schoters-Candra-Roseahansyah-main\app\src\main\AndroidManifest.xml:11:9-54
+26        android:supportsRtl="true"
+26-->E:\BelajarCoding\VIX-Schoters-Candra-Roseahansyah-main\app\src\main\AndroidManifest.xml:12:9-35
+27        android:testOnly="true"
+28        android:theme="@style/Theme.News" >
+28-->E:\BelajarCoding\VIX-Schoters-Candra-Roseahansyah-main\app\src\main\AndroidManifest.xml:13:9-42
+29        <activity
+29-->E:\BelajarCoding\VIX-Schoters-Candra-Roseahansyah-main\app\src\main\AndroidManifest.xml:14:9-16:40
+30            android:name="com.rakamin.newsapp.ui.DetailNewsActivity"
+30-->E:\BelajarCoding\VIX-Schoters-Candra-Roseahansyah-main\app\src\main\AndroidManifest.xml:15:13-69
+31            android:exported="false" />
+31-->E:\BelajarCoding\VIX-Schoters-Candra-Roseahansyah-main\app\src\main\AndroidManifest.xml:16:13-37
+32        <activity
+32-->E:\BelajarCoding\VIX-Schoters-Candra-Roseahansyah-main\app\src\main\AndroidManifest.xml:17:9-19:40
+33            android:name="com.rakamin.newsapp.ui.AboutActivity"
+33-->E:\BelajarCoding\VIX-Schoters-Candra-Roseahansyah-main\app\src\main\AndroidManifest.xml:18:13-64
+34            android:exported="false" />
+34-->E:\BelajarCoding\VIX-Schoters-Candra-Roseahansyah-main\app\src\main\AndroidManifest.xml:19:13-37
+35        <activity
+35-->E:\BelajarCoding\VIX-Schoters-Candra-Roseahansyah-main\app\src\main\AndroidManifest.xml:20:9-29:20
+36            android:name="com.rakamin.newsapp.ui.HomeActivity"
+36-->E:\BelajarCoding\VIX-Schoters-Candra-Roseahansyah-main\app\src\main\AndroidManifest.xml:21:13-63
+37            android:exported="true"
+37-->E:\BelajarCoding\VIX-Schoters-Candra-Roseahansyah-main\app\src\main\AndroidManifest.xml:22:13-36
+38            android:label="@string/app_name" >
+38-->E:\BelajarCoding\VIX-Schoters-Candra-Roseahansyah-main\app\src\main\AndroidManifest.xml:23:13-45
+39            <intent-filter>
+39-->E:\BelajarCoding\VIX-Schoters-Candra-Roseahansyah-main\app\src\main\AndroidManifest.xml:24:13-28:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->E:\BelajarCoding\VIX-Schoters-Candra-Roseahansyah-main\app\src\main\AndroidManifest.xml:25:17-69
+40-->E:\BelajarCoding\VIX-Schoters-Candra-Roseahansyah-main\app\src\main\AndroidManifest.xml:25:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->E:\BelajarCoding\VIX-Schoters-Candra-Roseahansyah-main\app\src\main\AndroidManifest.xml:27:17-77
+42-->E:\BelajarCoding\VIX-Schoters-Candra-Roseahansyah-main\app\src\main\AndroidManifest.xml:27:27-74
+43            </intent-filter>
+44        </activity>
+45
+46        <provider
+46-->[androidx.emoji2:emoji2:1.2.0] C:\Users\amdha\.gradle\caches\transforms-3\8d66ea1bf4574dee4ad0e86d0e0d8612\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+47            android:name="androidx.startup.InitializationProvider"
+47-->[androidx.emoji2:emoji2:1.2.0] C:\Users\amdha\.gradle\caches\transforms-3\8d66ea1bf4574dee4ad0e86d0e0d8612\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+48            android:authorities="com.rakamin.newsapp.androidx-startup"
+48-->[androidx.emoji2:emoji2:1.2.0] C:\Users\amdha\.gradle\caches\transforms-3\8d66ea1bf4574dee4ad0e86d0e0d8612\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+49            android:exported="false" >
+49-->[androidx.emoji2:emoji2:1.2.0] C:\Users\amdha\.gradle\caches\transforms-3\8d66ea1bf4574dee4ad0e86d0e0d8612\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+50            <meta-data
+50-->[androidx.emoji2:emoji2:1.2.0] C:\Users\amdha\.gradle\caches\transforms-3\8d66ea1bf4574dee4ad0e86d0e0d8612\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+51                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+51-->[androidx.emoji2:emoji2:1.2.0] C:\Users\amdha\.gradle\caches\transforms-3\8d66ea1bf4574dee4ad0e86d0e0d8612\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+52                android:value="androidx.startup" />
+52-->[androidx.emoji2:emoji2:1.2.0] C:\Users\amdha\.gradle\caches\transforms-3\8d66ea1bf4574dee4ad0e86d0e0d8612\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+53            <meta-data
+53-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\amdha\.gradle\caches\transforms-3\55a71b79c7df49837a90e674222acd34\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+54                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+54-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\amdha\.gradle\caches\transforms-3\55a71b79c7df49837a90e674222acd34\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+55                android:value="androidx.startup" />
+55-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\amdha\.gradle\caches\transforms-3\55a71b79c7df49837a90e674222acd34\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+56        </provider>
+57
+58        <service
+58-->[androidx.room:room-runtime:2.4.3] C:\Users\amdha\.gradle\caches\transforms-3\0a536d1bbb536a9feffafb3ca4ec7d0b\transformed\room-runtime-2.4.3\AndroidManifest.xml:25:9-28:40
+59            android:name="androidx.room.MultiInstanceInvalidationService"
+59-->[androidx.room:room-runtime:2.4.3] C:\Users\amdha\.gradle\caches\transforms-3\0a536d1bbb536a9feffafb3ca4ec7d0b\transformed\room-runtime-2.4.3\AndroidManifest.xml:26:13-74
+60            android:directBootAware="true"
+60-->[androidx.room:room-runtime:2.4.3] C:\Users\amdha\.gradle\caches\transforms-3\0a536d1bbb536a9feffafb3ca4ec7d0b\transformed\room-runtime-2.4.3\AndroidManifest.xml:27:13-43
+61            android:exported="false" />
+61-->[androidx.room:room-runtime:2.4.3] C:\Users\amdha\.gradle\caches\transforms-3\0a536d1bbb536a9feffafb3ca4ec7d0b\transformed\room-runtime-2.4.3\AndroidManifest.xml:28:13-37
+62    </application>
+63
+64</manifest>

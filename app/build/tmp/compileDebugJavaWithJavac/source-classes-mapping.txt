@@ -1,0 +1,26 @@
+com/rakamin/newsapp/BuildConfig.java
+ com.rakamin.newsapp.BuildConfig
+com/rakamin/newsapp/databinding/ActivityDetailNewsBinding.java
+ com.rakamin.newsapp.databinding.ActivityDetailNewsBinding
+com/rakamin/newsapp/data/local/room/NewsDatabase_Impl.java
+ com.rakamin.newsapp.data.local.room.NewsDatabase_Impl
+ com.rakamin.newsapp.data.local.room.NewsDatabase_Impl$1
+com/rakamin/newsapp/databinding/FragmentNewsBinding.java
+ com.rakamin.newsapp.databinding.FragmentNewsBinding
+com/rakamin/newsapp/data/local/room/NewsDao_Impl.java
+ com.rakamin.newsapp.data.local.room.NewsDao_Impl
+ com.rakamin.newsapp.data.local.room.NewsDao_Impl$1
+ com.rakamin.newsapp.data.local.room.NewsDao_Impl$2
+ com.rakamin.newsapp.data.local.room.NewsDao_Impl$3
+ com.rakamin.newsapp.data.local.room.NewsDao_Impl$4
+ com.rakamin.newsapp.data.local.room.NewsDao_Impl$5
+ com.rakamin.newsapp.data.local.room.NewsDao_Impl$6
+ com.rakamin.newsapp.data.local.room.NewsDao_Impl$7
+ com.rakamin.newsapp.data.local.room.NewsDao_Impl$8
+ com.rakamin.newsapp.data.local.room.NewsDao_Impl$9
+com/rakamin/newsapp/databinding/ItemNewsBinding.java
+ com.rakamin.newsapp.databinding.ItemNewsBinding
+com/rakamin/newsapp/databinding/ActivityHomeBinding.java
+ com.rakamin.newsapp.databinding.ActivityHomeBinding
+com/rakamin/newsapp/databinding/ActivityAboutBinding.java
+ com.rakamin.newsapp.databinding.ActivityAboutBinding

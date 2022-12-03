@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\BelajarCoding\\VIX-Schoters-Candra-Roseahansyah-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_detail_news.xml",
+        "source": "E:\\BelajarCoding\\VIX-Schoters-Candra-Roseahansyah-main\\app\\src\\main\\res\\layout\\activity_detail_news.xml"
+    },
+    {
+        "merged": "E:\\BelajarCoding\\VIX-Schoters-Candra-Roseahansyah-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_news.xml",
+        "source": "E:\\BelajarCoding\\VIX-Schoters-Candra-Roseahansyah-main\\app\\src\\main\\res\\layout\\item_news.xml"
+    },
+    {
+        "merged": "E:\\BelajarCoding\\VIX-Schoters-Candra-Roseahansyah-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_home.xml",
+        "source": "E:\\BelajarCoding\\VIX-Schoters-Candra-Roseahansyah-main\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "E:\\BelajarCoding\\VIX-Schoters-Candra-Roseahansyah-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_news.xml",
+        "source": "E:\\BelajarCoding\\VIX-Schoters-Candra-Roseahansyah-main\\app\\src\\main\\res\\layout\\fragment_news.xml"
+    },
+    {
+        "merged": "E:\\BelajarCoding\\VIX-Schoters-Candra-Roseahansyah-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_about.xml",
+        "source": "E:\\BelajarCoding\\VIX-Schoters-Candra-Roseahansyah-main\\app\\src\\main\\res\\layout\\activity_about.xml"
+    }
+]
